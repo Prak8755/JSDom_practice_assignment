@@ -1,1 +1,1 @@
-# JSDom_practice_assignment
+# Js-function
